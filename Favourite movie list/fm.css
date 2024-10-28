@@ -1,0 +1,42 @@
+#container{
+    
+    border:10px solid rgb(0, 58, 69);
+    height:500px;
+    width:400px;
+    margin-left: 400px;
+    background-color: beige;
+    color:brown;
+    font-size:x-large;
+    font-variant: small-caps;
+
+
+
+}
+h1{
+    text-align: center;
+    font-variant: small-caps;
+}
+#nm{
+    text-align: center;
+    padding:20px;
+}
+#inp,#inp_{
+    background-color: antiquewhite;
+}
+#list li a{
+ 
+    list-style: none;
+    text-align: center;
+  font-size: 20px;
+  cursor: pointer;
+
+
+}
+li{
+
+}
+#button,#rbut{
+    height:20px;
+    width: 50px;
+    background-color: aquamarine;
+}
